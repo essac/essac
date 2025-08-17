@@ -4,7 +4,7 @@
 📍 𝙱𝚊𝚜𝚎𝚍 𝚒𝚗 𝚂𝚝𝚘𝚌𝚔𝚑𝚘𝚕𝚖, 𝚂𝚠𝚎𝚍𝚎𝚗.
 
 ## 🔥 Technical skills:
-* Frontend:
+Frontend:
 * React, Next.js, TypeScript
 * JavaScript (ES6+), HTML5, CSS3
 * SCSS/SASS, Tailwind CSS, Bootstrap
