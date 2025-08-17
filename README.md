@@ -3,9 +3,14 @@
 
 📍 𝙱𝚊𝚜𝚎𝚍 𝚒𝚗 𝚂𝚝𝚘𝚌𝚔𝚑𝚘𝚕𝚖, 𝚂𝚠𝚎𝚍𝚎𝚗.
 
-## 🔥 𝚂𝚔𝚒𝚕𝚕𝚜:
-* 𝚁𝚎𝚊𝚌𝚝𝙹𝚂.
-* 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝.
-* 𝙽𝚎𝚡𝚝𝙹𝚂.
-* 𝙰𝚗𝚐𝚞𝚕𝚊𝚛𝙹𝚂.
-* 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂 & 𝚂𝙲𝚂𝚂/𝚂𝙰𝚂𝚂.
+## 🔥 Technical skills:
+* Frontend:
+* React, Next.js, TypeScript
+* JavaScript (ES6+), HTML5, CSS3
+* SCSS/SASS, Tailwind CSS, Bootstrap
+
+Backend & API:
+* Node.js, RESTful APIs, SQL (MySQL, Azure SQL)
+
+Verktyg & Plattformar:
+* Git, Webpack, npm/yarn, SEO (Google Analytics), Figma, Agila metoder (Scrum, Kanban)
